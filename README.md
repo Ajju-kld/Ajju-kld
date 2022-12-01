@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajju-kld
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT and FLUTTER
 - 🌱 I’m currently learning ANGULAR JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
