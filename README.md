@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajju-kld
 - 👀 I’m interested in WEB DEVELOPMENT and FLUTTER
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to dive to world of ML
 - 📫 How to reach me 
 ## 🌐 Socials:
